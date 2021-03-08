@@ -1,0 +1,164 @@
+.menu{
+    background-color: #B2B0A1;
+    height: 75px;
+    text-align: center;
+}
+
+
+.tutoriales{
+    background-color: #755656;
+    height: 60px;
+    text-align: center;
+}
+
+.cont1{
+    background-color: #CCFFD9;
+    height: 300px;
+    text-align: center;
+}
+
+.cont2{
+    background-color: #908FB2;
+    height: 300PX;
+    text-align: center;
+}
+
+.cont3{
+    background-color: #C2C0B4;
+    height: 300px;
+    text-align: center;
+}
+
+.cont4{
+    background-color: #99BFA3;
+    height: 300px;
+    text-align: center;
+}
+
+.pie{
+    background-color: #2D2C28;
+    height: 60px;
+    text-align: center;
+    color: #ffffff;
+}
+
+/*NOSOTROS*/
+
+.nosotros{
+    background-color: #755656;
+    height: 60px;
+    text-align: center;
+}
+
+.spot{
+    background-color: #CCFFD9;
+    height: 600px;
+    text-align: center;
+}
+
+/*ILLUSTRATOR*/
+
+.illustrator{
+    background-color: #755656;
+    height: 60px;
+    text-align: center;
+}
+
+.ai1{
+    background-color: #CCFFD9;
+    height: 600px;
+    text-align: center;
+}
+
+.ai2{
+    background-color: #908FB2;
+    height: 600px;
+    text-align: center;
+}
+
+.ai3{
+    background-color: #C2C0B4;
+    height: 600px;
+    text-align: center;
+}
+
+/*PHOTOSHOP*/
+
+.photoshop{
+    background-color: #755656;
+    height: 60px;
+    text-align: center;
+}
+
+.ps1{
+    background-color: #CCFFD9;
+    height: 600px;
+    text-align: center;
+}
+
+.ps2{
+    background-color: #908FB2;
+    height: 600px;
+    text-align: center;
+}
+
+.ps3{
+    background-color: #C2C0B4;
+    height: 600px;
+    text-align: center;
+}
+
+/*PREMIERE*/
+
+.premiere{
+    background-color: #755656;
+    height: 60px;
+    text-align: center;
+}
+
+.pr1{
+    background-color: #CCFFD9;
+    height: 600px;
+    text-align: center;
+}
+
+.pr2{
+    background-color: #908FB2;
+    height: 600px;
+    text-align: center;
+}
+
+.pr3{
+    background-color: #C2C0B4;
+    height: 600px;
+    text-align: center;
+}
+
+/*AFTER*/
+
+.after{
+    background-color: #755656;
+    height: 60px;
+    text-align: center;
+}
+
+.ae1{
+    background-color: #CCFFD9;
+    height: 600px;
+    text-align: center;
+}
+
+.ae2{
+    background-color: #908FB2;
+    height: 600px;
+    text-align: center;
+}
+
+.ae3{
+    background-color: #C2C0B4;
+    height: 600px;
+    text-align: center;
+}
+.col-sm-12 ae1{
+    height: 200px;
+}
